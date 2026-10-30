@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "source": "SYNTHETIC example",
+    "retrieved_at": "2026-10-30T00:00:00Z",
+    "label": "SYNTHETIC",
+    "symbol": "TEST",
+    "interval": "day",
+    "session": "regular",
+    "adjustment": "none",
+    "sample": "development",
+    "coverage_notes": "Invented sample; not market observations"
+  },
+  "bars": [
+    {
+      "start": "2026-01-01T14:30:00Z",
+      "end": "2026-01-01T21:00:00Z",
+      "open": 101,
+      "close": 102,
+      "signal": true
+    },
+    {
+      "start": "2026-01-02T14:30:00Z",
+      "end": "2026-01-02T21:00:00Z",
+      "open": 102,
+      "close": 103,
+      "signal": true
+    },
+    {
+      "start": "2026-01-03T14:30:00Z",
+      "end": "2026-01-03T21:00:00Z",
+      "open": 103,
+      "close": 104,
+      "signal": true
+    },
+    {
+      "start": "2026-01-04T14:30:00Z",
+      "end": "2026-01-04T21:00:00Z",
+      "open": 104,
+      "close": 105,
+      "signal": true
+    }
+  ]
+}

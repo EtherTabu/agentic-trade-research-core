@@ -1,0 +1,24 @@
+{
+  "records": [
+    {
+      "id": "SYNTHETIC-01",
+      "kind": "paper",
+      "status": "closed",
+      "closed_at": "2026-01-02T21:00:00Z",
+      "pnl_net": -2.5,
+      "initial_risk": 10,
+      "setup": "synthetic-example",
+      "process": "good"
+    },
+    {
+      "id": "SYNTHETIC-02",
+      "kind": "paper",
+      "status": "closed",
+      "closed_at": "2026-01-03T21:00:00Z",
+      "pnl_net": 1,
+      "initial_risk": 10,
+      "setup": "synthetic-example",
+      "process": "unrated"
+    }
+  ]
+}
